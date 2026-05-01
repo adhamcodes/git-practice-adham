@@ -1,3 +1,5 @@
+# This is the main entry point for the Git practice assignmentgit add src/main.py
+
 from datetime import date
 from utils import add, subtract
 
